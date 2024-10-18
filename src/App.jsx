@@ -23,7 +23,7 @@ function App() {
                   <div className='p-4 lg:w-[55%] xl:w-[65%]'>
 
                      <div>
-                      <h2 className='text-[40px] font-extrabold pb-[32px]'>Desserts</h2>
+                      <h2 className='text-[40px] font-extrabold pb-[33px]'>Desserts</h2>
                      </div>
 
                         <div className='grid gap-6 md:grid-cols-2 xl:grid-cols-3'>
